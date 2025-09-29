@@ -30,8 +30,6 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By: RAMYA.P
-# Register Number: 212223240137
 
 import cv2
 import matplotlib.pyplot as plt 
